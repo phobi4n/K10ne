@@ -14,3 +14,7 @@ BackgroundNormal=0,222,222
 
 [Colors:Compilmentary]
 BackgroundNormal=224,4,4
+
+[Colors:View]
+ForegroundNormal=226,227,228
+BackgroundNormal=64,64,64

@@ -32,8 +32,8 @@
      id="namedview4532"
      showgrid="false"
      inkscape:zoom="6.484917"
-     inkscape:cx="47.906876"
-     inkscape:cy="58.662984"
+     inkscape:cx="55.661305"
+     inkscape:cy="57.73776"
      inkscape:current-layer="svg2"
      inkscape:measure-start="0,0"
      inkscape:measure-end="0,0"
@@ -52,7 +52,7 @@
        id="hover"
        osb:paint="solid">
       <stop
-         style="stop-color:#484848;stop-opacity:1;"
+         style="stop-color:#298fcc;stop-opacity:0.80000001;"
          offset="0"
          id="stop1879" />
     </linearGradient>
@@ -581,7 +581,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>

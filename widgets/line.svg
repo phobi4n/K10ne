@@ -9,18 +9,18 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="47"
-   height="45"
+   width="57"
+   height="55"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="0.92pre2 15180"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    version="1.0"
    sodipodi:docname="line.svg"
    inkscape:output_extension="org.inkscape.output.svgz.inkscape"
    inkscape:export-filename="arrow-up.png"
    inkscape:export-xdpi="11.25"
    inkscape:export-ydpi="11.25"
-   viewBox="0 0 47 45">
+   viewBox="0 0 57 55">
   <sodipodi:namedview
      id="base"
      pagecolor="#e3f0fd"
@@ -32,25 +32,26 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="8.3298084"
-     inkscape:cx="4.7424132"
-     inkscape:cy="20.268396"
+     inkscape:cx="-4.9039505"
+     inkscape:cy="24.548091"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      width="128px"
      height="128px"
-     showgrid="true"
+     showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1131"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:snap-nodes="true"
      inkscape:window-maximized="1"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0"
+     fit-margin-top="5"
+     fit-margin-left="5"
+     fit-margin-right="5"
+     fit-margin-bottom="5"
      inkscape:showpageshadow="false"
-     borderlayer="true">
+     borderlayer="false"
+     inkscape:pagecheckerboard="true">
     <inkscape:grid
        enabled="true"
        visible="true"
@@ -61,8 +62,8 @@
        color="#0000ff"
        spacingy="2px"
        spacingx="2px"
-       originy="-69"
-       originx="-28"
+       originy="-64"
+       originx="-23"
        type="xygrid"
        id="GridFromPre046Settings"
        snapvisiblegridlinesonly="true" />
@@ -110,7 +111,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -118,7 +119,7 @@
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="Layer 1"
-     transform="translate(-28,-14)">
+     transform="translate(-23,-9)">
     <g
        id="vertical-line"
        inkscape:label="#g3763"
@@ -143,7 +144,7 @@
          inkscape:connector-curvature="0"
          id="path2998"
          d="m 33.96875,13.59375 v 40 h 1 v -40 z"
-         style="color:#31363b;fill:#ffffff;fill-opacity:1;stroke:none" />
+         style="color:#31363b;fill:#929292;fill-opacity:1;stroke:none" />
     </g>
     <g
        id="horizontal-line"
@@ -168,7 +169,7 @@
          inkscape:connector-curvature="0"
          id="path3787"
          d="m 75.690972,56.529 h -40 v 1 h 40 z"
-         style="color:#31363b;fill:#ffffff;fill-opacity:1;stroke:none"
+         style="color:#31363b;fill:#929292;fill-opacity:1;stroke:none"
          inkscape:label="#path2992" />
     </g>
   </g>
