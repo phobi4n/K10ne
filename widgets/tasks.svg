@@ -25,9 +25,9 @@
      fit-margin-left="0"
      fit-margin-top="0"
      inkscape:current-layer="svg11324"
-     inkscape:cy="20.790508"
-     inkscape:cx="203.59004"
-     inkscape:zoom="14.935361"
+     inkscape:cy="51.399221"
+     inkscape:cx="162.27591"
+     inkscape:zoom="5.2804475"
      showgrid="false"
      id="namedview396"
      inkscape:window-height="965"
@@ -169,7 +169,7 @@
        id="focus-0"
        osb:paint="solid">
       <stop
-         style="stop-color:#2d2f32;stop-opacity:1;"
+         style="stop-color:#404040;stop-opacity:1;"
          offset="0"
          id="stop6824" />
     </linearGradient>
