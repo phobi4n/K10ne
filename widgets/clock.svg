@@ -13,7 +13,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    width="1012.879"
    height="605.51886"
    version="1.0"
@@ -40,9 +40,9 @@
      showgrid="false"
      width="250px"
      height="250px"
-     inkscape:zoom="1.1887597"
-     inkscape:cx="416.74194"
-     inkscape:cy="260.49744"
+     inkscape:zoom="2.3775194"
+     inkscape:cx="371.31892"
+     inkscape:cy="228.57995"
      inkscape:window-x="0"
      inkscape:window-y="33"
      inkscape:current-layer="svg2"
@@ -76,7 +76,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
       <cc:Work
          rdf:about="">
@@ -378,7 +378,7 @@
     <path
        inkscape:connector-curvature="0"
        id="path1170"
-       d="m 200.80285,358.62288 v 182.1226"
+       d="m 200.80285,364.93198 v 175.8135"
        style="fill:none;fill-rule:evenodd;stroke:#f2f2f2;stroke-width:3.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   </g>
   <g
@@ -393,7 +393,7 @@
        y="357.49377" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#f2f2f2;stroke-width:3.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 200.80285,358.62288 V 497.84362"
+       d="M 200.80285,364.09077 V 497.84362"
        id="path1180"
        inkscape:connector-curvature="0" />
   </g>
@@ -412,7 +412,7 @@
        cy="-11.520782"
        cx="647.24176"
        id="circle1118"
-       style="opacity:1;fill:#eaeaea;fill-opacity:0.3183857;fill-rule:nonzero;stroke:none;stroke-width:8.56509399;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       style="opacity:1;fill:#d2d2d2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:8.56509399;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
   </g>
   <g
      transform="translate(311.73802,1.6824258)"
@@ -426,7 +426,7 @@
        y="357.49377" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#f6511d;stroke-width:3.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 200.80285,358.62288 v 182.1226"
+       d="M 200.80285,362.82894 V 540.74548"
        id="path1186"
        inkscape:connector-curvature="0" />
   </g>
@@ -481,7 +481,7 @@
        rx="218.39052"
        cy="357.98984"
        cx="204.65697"
-       style="opacity:1;fill:#151515;fill-opacity:0.8699552;fill-rule:evenodd;stroke:none;stroke-width:3.30000019;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.8699552;paint-order:normal" />
+       style="opacity:1;fill:#000204;fill-opacity:0.88288289;fill-rule:evenodd;stroke:none;stroke-width:3.30000019;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.8699552;paint-order:normal" />
     <g
        id="text917"
        style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:18.66666603px;line-height:25px;font-family:'Sinkin Sans';-inkscape-font-specification:'Sinkin Sans, Ultra-Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#e0e0e0;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
